@@ -110,7 +110,7 @@ Magic Bento is a comprehensive React component library that combines the eleganc
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/magic-bento.git
+git clone https://github.com/RootsReggaeRagga/magic-bento.git
 cd magic-bento
 ```
 
@@ -299,8 +299,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: [docs.magicbento.dev](https://docs.magicbento.dev)
-- **Issues**: [GitHub Issues](https://github.com/your-username/magic-bento/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/magic-bento/discussions)
+- **Issues**: [GitHub Issues](https://github.com/RootsReggaeRagga/magic-bento/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/RootsReggaeRagga/magic-bento/discussions)
 - **Email**: support@magicbento.dev
 
 ## 🗺️ Roadmap
@@ -329,16 +329,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Magic Bento Team</p>
+  <p>Made with ❤️ by <a href="https://github.com/RootsReggaeRagga">RootsReggaeRagga</a></p>
   <p>
-    <a href="https://github.com/your-username/magic-bento/stargazers">
-      <img src="https://img.shields.io/github/stars/your-username/magic-bento" alt="Stars">
+    <a href="https://github.com/RootsReggaeRagga/magic-bento/stargazers">
+      <img src="https://img.shields.io/github/stars/RootsReggaeRagga/magic-bento" alt="Stars">
     </a>
-    <a href="https://github.com/your-username/magic-bento/network">
-      <img src="https://img.shields.io/github/forks/your-username/magic-bento" alt="Forks">
+    <a href="https://github.com/RootsReggaeRagga/magic-bento/network">
+      <img src="https://img.shields.io/github/forks/RootsReggaeRagga/magic-bento" alt="Forks">
     </a>
-    <a href="https://github.com/your-username/magic-bento/issues">
-      <img src="https://img.shields.io/github/issues/your-username/magic-bento" alt="Issues">
+    <a href="https://github.com/RootsReggaeRagga/magic-bento/issues">
+      <img src="https://img.shields.io/github/issues/RootsReggaeRagga/magic-bento" alt="Issues">
     </a>
   </p>
 </div>
